@@ -1,0 +1,90 @@
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Form1.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.LoginForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.MainForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.csproj.GenerateResource.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.AssemblyInfo.cs
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.exe
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.deps.json
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.runtimeconfig.json
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.pdb
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTI.449BFD41.Up2Date
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\refint\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.pdb
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.genruntimeconfig.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\ref\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.CourseForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.CoursesSubjectsHubForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.SubjectForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.StudentForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.ExamForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.ExamMarksHubForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.MarksForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.RoomsForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.TimetableHubForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Unicom TIC\new project 2\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.TimetableForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.exe
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.deps.json
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.runtimeconfig.json
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\UnicomTICManagementSystem.pdb
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Form1.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.CourseForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.CoursesSubjectsHubForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.ExamForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.ExamMarksHubForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.LoginForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.MainForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.MarksForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.RoomsForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.StudentForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.SubjectForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.TimetableForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.TimetableHubForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.csproj.GenerateResource.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.AssemblyInfo.cs
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTI.449BFD41.Up2Date
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\refint\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.pdb
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.genruntimeconfig.cache
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\ref\UnicomTICManagementSystem.dll
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.UserManagementForm.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Properties.Resources.resources
