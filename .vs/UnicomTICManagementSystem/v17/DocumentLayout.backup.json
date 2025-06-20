@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\editing\\unicomticmanagementsystem\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\editing\\unicomticmanagementsystem\\views\\coursessubjectshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\coursessubjectshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\views\\coursessubjectshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\coursessubjectshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\editing\\unicomticmanagementsystem\\views\\exammarkshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\exammarkshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\views\\exammarkshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\exammarkshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\editing\\unicomticmanagementsystem\\views\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\subjectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\editing\\unicomticmanagementsystem\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|c:\\users\\roshan akthar\\onedrive\\desktop\\editing\\unicomticmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,16 +151,8 @@
       "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\views\\exammarkshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\exammarkshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\views\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\views\\coursessubjectshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8B99B883-0053-4691-ADC0-3B3B0B1836B4}|UnicomTICManagementSystem.csproj|solutionrelative:views\\coursessubjectshubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,45 +166,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TimetableForm.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs",
-              "RelativeDocumentMoniker": "Views\\TimetableForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs",
-              "RelativeToolTip": "Views\\TimetableForm.cs",
-              "ViewState": "AgIAAAIBAAAAAAAAAAAIwDcBAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CoursesSubjectsHubForm.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CoursesSubjectsHubForm.cs",
+              "RelativeDocumentMoniker": "Views\\CoursesSubjectsHubForm.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CoursesSubjectsHubForm.cs",
+              "RelativeToolTip": "Views\\CoursesSubjectsHubForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:54:22.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TimetableHubForm.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableHubForm.cs",
-              "RelativeDocumentMoniker": "Views\\TimetableHubForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableHubForm.cs",
-              "RelativeToolTip": "Views\\TimetableHubForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:53:53.819Z",
+              "WhenOpened": "2025-06-20T21:31:29.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TimetableForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs",
-              "RelativeDocumentMoniker": "Views\\TimetableForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs [Design]",
-              "RelativeToolTip": "Views\\TimetableForm.cs [Design]",
+              "Title": "ExamMarksHubForm.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\ExamMarksHubForm.cs",
+              "RelativeDocumentMoniker": "Views\\ExamMarksHubForm.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\ExamMarksHubForm.cs",
+              "RelativeToolTip": "Views\\ExamMarksHubForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:21:57.878Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-20T21:30:39.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "SubjectForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\SubjectForm.cs",
               "RelativeDocumentMoniker": "Views\\SubjectForm.cs",
@@ -208,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "SubjectForm.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\SubjectForm.cs",
               "RelativeDocumentMoniker": "Views\\SubjectForm.cs",
@@ -221,12 +217,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Repositories\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Repositories\\DatabaseManager.cs",
+              "RelativeToolTip": "Repositories\\DatabaseManager.cs",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAQwA8DAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:38:02.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesSubjectsHubForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CoursesSubjectsHubForm.cs",
+              "RelativeDocumentMoniker": "Views\\CoursesSubjectsHubForm.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CoursesSubjectsHubForm.cs [Design]",
+              "RelativeToolTip": "Views\\CoursesSubjectsHubForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:10:14.394Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimetableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs",
+              "RelativeDocumentMoniker": "Views\\TimetableForm.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs [Design]",
+              "RelativeToolTip": "Views\\TimetableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:21:57.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamMarksHubForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\ExamMarksHubForm.cs",
+              "RelativeDocumentMoniker": "Views\\ExamMarksHubForm.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\ExamMarksHubForm.cs [Design]",
+              "RelativeToolTip": "Views\\ExamMarksHubForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:12:35.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimetableHubForm.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableHubForm.cs",
+              "RelativeDocumentMoniker": "Views\\TimetableHubForm.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableHubForm.cs",
+              "RelativeToolTip": "Views\\TimetableHubForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:53:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimetableForm.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs",
+              "RelativeDocumentMoniker": "Views\\TimetableForm.cs",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableForm.cs",
+              "RelativeToolTip": "Views\\TimetableForm.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAIwDcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:54:22.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserManagementForm.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\UserManagementForm.cs",
               "RelativeDocumentMoniker": "Views\\UserManagementForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\UserManagementForm.cs*",
-              "RelativeToolTip": "Views\\UserManagementForm.cs*",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\UserManagementForm.cs",
+              "RelativeToolTip": "Views\\UserManagementForm.cs",
               "ViewState": "AgIAAMEAAAAAAAAAAAAwwNUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T20:37:38.178Z",
@@ -234,56 +304,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "UserManagementForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\UserManagementForm.cs",
               "RelativeDocumentMoniker": "Views\\UserManagementForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\UserManagementForm.cs [Design]*",
-              "RelativeToolTip": "Views\\UserManagementForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\UserManagementForm.cs [Design]",
+              "RelativeToolTip": "Views\\UserManagementForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:27:12.431Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-20T20:27:12.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "CourseForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CourseForm.cs",
               "RelativeDocumentMoniker": "Views\\CourseForm.cs",
               "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CourseForm.cs [Design]",
               "RelativeToolTip": "Views\\CourseForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:10:11.373Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-20T20:10:11.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "TimetableHubForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableHubForm.cs",
               "RelativeDocumentMoniker": "Views\\TimetableHubForm.cs",
               "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\TimetableHubForm.cs [Design]",
               "RelativeToolTip": "Views\\TimetableHubForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:25:58.467Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-20T20:25:58.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Repositories\\DatabaseManager.cs",
-              "RelativeDocumentMoniker": "Repositories\\DatabaseManager.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Repositories\\DatabaseManager.cs",
-              "RelativeToolTip": "Repositories\\DatabaseManager.cs",
-              "ViewState": "AgIAAD4DAAAAAAAAAAAgwA8DAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:38:02.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\Room.cs",
               "RelativeDocumentMoniker": "Models\\Room.cs",
@@ -291,12 +345,11 @@
               "RelativeToolTip": "Models\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:49:49.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:49:49.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -304,12 +357,11 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:49:59.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:49:59.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Models\\Subject.cs",
@@ -317,12 +369,11 @@
               "RelativeToolTip": "Models\\Subject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:50:07.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:50:07.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "TimetableEntry.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\TimetableEntry.cs",
               "RelativeDocumentMoniker": "Models\\TimetableEntry.cs",
@@ -330,12 +381,11 @@
               "RelativeToolTip": "Models\\TimetableEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:50:13.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:50:13.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -343,12 +393,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:50:25.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:50:25.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Mark.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\Mark.cs",
               "RelativeDocumentMoniker": "Models\\Mark.cs",
@@ -356,12 +405,11 @@
               "RelativeToolTip": "Models\\Mark.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:49:45.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:49:45.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Exam.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\Exam.cs",
               "RelativeDocumentMoniker": "Models\\Exam.cs",
@@ -369,12 +417,11 @@
               "RelativeToolTip": "Models\\Exam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:49:33.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:49:33.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
@@ -382,12 +429,11 @@
               "RelativeToolTip": "Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:49:24.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:49:24.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "TimetableController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\TimetableController.cs",
               "RelativeDocumentMoniker": "Controllers\\TimetableController.cs",
@@ -395,12 +441,11 @@
               "RelativeToolTip": "Controllers\\TimetableController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:48:17.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:48:17.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "SubjectController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\SubjectController.cs",
               "RelativeDocumentMoniker": "Controllers\\SubjectController.cs",
@@ -408,12 +453,11 @@
               "RelativeToolTip": "Controllers\\SubjectController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:48:12.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:48:12.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
@@ -421,12 +465,11 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:47:59.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:47:59.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "RoomController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
@@ -434,12 +477,11 @@
               "RelativeToolTip": "Controllers\\RoomController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:47:28.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:47:28.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "MarkController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\MarkController.cs",
               "RelativeDocumentMoniker": "Controllers\\MarkController.cs",
@@ -447,12 +489,11 @@
               "RelativeToolTip": "Controllers\\MarkController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:46:46.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:46:46.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -460,12 +501,11 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAA5wC4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:37:27.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:37:27.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -473,12 +513,11 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:46:34.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:46:34.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "ExamController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\ExamController.cs",
               "RelativeDocumentMoniker": "Controllers\\ExamController.cs",
@@ -486,12 +525,11 @@
               "RelativeToolTip": "Controllers\\ExamController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:45:26.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:45:26.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
@@ -499,12 +537,11 @@
               "RelativeToolTip": "Controllers\\CourseController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:45:19.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T20:45:19.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -515,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "StudentForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\StudentForm.cs",
               "RelativeDocumentMoniker": "Views\\StudentForm.cs",
@@ -526,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "RoomsForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\RoomsForm.cs",
               "RelativeDocumentMoniker": "Views\\RoomsForm.cs",
@@ -537,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "MarksForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\MarksForm.cs",
               "RelativeDocumentMoniker": "Views\\MarksForm.cs",
@@ -548,18 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ExamMarksHubForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\ExamMarksHubForm.cs",
-              "RelativeDocumentMoniker": "Views\\ExamMarksHubForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\ExamMarksHubForm.cs [Design]",
-              "RelativeToolTip": "Views\\ExamMarksHubForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:12:35.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "ExamForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\ExamForm.cs",
               "RelativeDocumentMoniker": "Views\\ExamForm.cs",
@@ -570,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\LoginForm.cs",
               "RelativeDocumentMoniker": "Views\\LoginForm.cs",
@@ -581,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\MainForm.cs",
               "RelativeDocumentMoniker": "Views\\MainForm.cs",
@@ -589,17 +615,6 @@
               "RelativeToolTip": "Views\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T19:31:56.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "CoursesSubjectsHubForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CoursesSubjectsHubForm.cs",
-              "RelativeDocumentMoniker": "Views\\CoursesSubjectsHubForm.cs",
-              "ToolTip": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\Views\\CoursesSubjectsHubForm.cs [Design]",
-              "RelativeToolTip": "Views\\CoursesSubjectsHubForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T20:10:14.394Z"
             }
           ]
         }

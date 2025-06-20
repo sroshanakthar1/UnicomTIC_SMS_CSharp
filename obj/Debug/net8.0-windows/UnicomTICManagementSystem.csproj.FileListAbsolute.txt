@@ -88,3 +88,4 @@ C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\De
 C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\ref\UnicomTICManagementSystem.dll
 C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Views.UserManagementForm.resources
 C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.Properties.Resources.resources
+C:\Users\Roshan Akthar\OneDrive\Desktop\Editing\UnicomTICManagementSystem\obj\Debug\net8.0-windows\UnicomTICManagementSystem.sourcelink.json
