@@ -1221,11 +1221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Project Final\\UnicomTIC_SMS_CSharp\\UnicomTICManagementSystem.csproj",
       "projectName": "UnicomTICManagementSystem",
-      "projectPath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj",
+      "projectPath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Project Final\\UnicomTIC_SMS_CSharp\\UnicomTICManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Roshan Akthar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Project Final\\UnicomTIC_SMS_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

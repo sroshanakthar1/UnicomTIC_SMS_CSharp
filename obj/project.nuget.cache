@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h1IYfXDvUio=",
+  "dgSpecHash": "T8eeFcAqaeg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Editing\\UnicomTICManagementSystem\\UnicomTICManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Roshan Akthar\\OneDrive\\Desktop\\Unicom TIC\\C#\\Project Final\\UnicomTIC_SMS_CSharp\\UnicomTICManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roshan Akthar\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Roshan Akthar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

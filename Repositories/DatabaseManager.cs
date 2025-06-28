@@ -451,8 +451,6 @@ namespace UnicomTICManagementSystem.Repositories
                 }
             }
         }
-
-        // Retrieves all Exams from the database, optionally joining with Subjects and Courses
         public List<Exam> GetAllExams()
         {
             List<Exam> exams = new List<Exam>();
